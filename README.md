@@ -1,5 +1,4 @@
-# Ruby on Rails sample application
-
+# Ruby on Rails 6 Microposts App
 ## Getting started
 
 To get started with the app, clone the repo and then install the needed gems:
